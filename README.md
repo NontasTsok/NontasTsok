@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 -->
 ## 📊 GitHub Stats
 
-![GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=NontasTsok&show_icons=true&hide=issues&theme=tokyonight)
+![GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=NontasTsok&show_icons=true&hide=issues&theme=tokyonight&cache_seconds=1800)
 
 ![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=NontasTsok&layout=compact&theme=tokyonight)
