@@ -16,8 +16,6 @@ Here are some ideas to get you started:
 -->
 ## 📊 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=NontasTsok&show_icons=true&hide=issues&theme=tokyonight)
+![GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=NontasTsok&show_icons=true&hide=issues&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NontasTsok&layout=compact&theme=tokyonight)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=NontasTsok&theme=github-dark)
+![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=NontasTsok&layout=compact&theme=tokyonight)
