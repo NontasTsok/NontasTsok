@@ -14,8 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
 ## 📊 GitHub Stats
+![Profile Views](https://komarev.com/ghpvc/?username=NontasTsok&color=blue)
 
-![GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=NontasTsok&show_icons=true&hide=issues&theme=tokyonight&cache_seconds=1800)
+<!-- GitHub Stats via github-profile-summary-cards (reliable alternative) -->
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NontasTsok&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=NontasTsok&layout=compact&theme=tokyonight)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=NontasTsok&theme=tokyo-night)
